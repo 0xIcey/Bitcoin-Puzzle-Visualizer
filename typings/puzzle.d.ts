@@ -3,6 +3,7 @@ export default interface Puzzle{
     keyRange: string,
     privateKey: string,
     address: string,
-    filteredPrivKey?: string
+    filteredPrivKey?: string,
+    diffToPrev?: string
 
 }
