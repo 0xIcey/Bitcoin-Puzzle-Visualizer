@@ -1,0 +1,6 @@
+export default interface Puzzle{
+    "puzzleIndex": number,
+    "keyRange": string,
+    "privateKey": string,
+    "address": string
+}
