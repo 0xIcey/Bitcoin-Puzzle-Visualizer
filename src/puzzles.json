@@ -394,7 +394,7 @@
         {
             "puzzleIndex": 66,
             "keyRange": "20000000000000000:3ffffffffffffffff",
-            "privateKey": "",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000000",
             "address": "13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so"
         },
         {
