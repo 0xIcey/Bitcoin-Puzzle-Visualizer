@@ -18,7 +18,7 @@ let filtered8 = Puzzles.puzzles.filter( (puzzle) => {
 //The reason we use multiple puzzles as input in the coming functions is because of the way we split the puzzles into "blocks" here.
 //They would also work fine with just one input, if you decide not to filter the blocks beforehand.
 
-//Include this to add a row "filteredPrivKeys", which removes the leading zeros.
+//Include this to add a row "filteredPrivKey", which removes the leading zeros.
 //filterOutZeros(filtered1, filtered2, filtered4, filtered8)
 
 
