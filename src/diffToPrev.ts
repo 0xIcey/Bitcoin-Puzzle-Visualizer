@@ -19,7 +19,7 @@ export default function diffToPrev(...AllPuzzles: Puzzle[][]){
             const difference = thisPuzzlesPrivateKey - previousPuzzlesPrivateKey;
             
 
-            puzzle.diffToPrev = difference.toString(16)
+            puzzle.diffToPrev = difference.toString(16) //Change this to the base system you want it in.
 
         })
     })
