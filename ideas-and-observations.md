@@ -1,1 +1,1 @@
-# This is where new found observations and ideas will be documented. As a general discussion thread, please use [Reddit](https://www.reddit.com/r/Bitcoin/comments/yv54vw/ive_created_a_small_tool_to_visualize_solved_btc/) or [Discord](https://discord.gg/G69EFDC3x2)
+# This is where new found observations and ideas will be documented. As a general discussion thread, please use [Reddit](https://www.reddit.com/r/Bitcoin/comments/yv54vw/ive_created_a_small_tool_to_visualize_solved_btc/) or [Discord](https://discord.gg/PDaXWXgSA3)
